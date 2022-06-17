@@ -4,7 +4,7 @@ The following image displays the entire architecture developed using THE SERVERL
 
 ![InfrastructureDiagram_720](https://user-images.githubusercontent.com/102525782/174272047-bb8401a2-b007-4a2b-a94d-bb7eed9932f6.png)
 
-#Tech stack
+# Tech stack
 
 The following tech stacks were used:
 
@@ -13,7 +13,7 @@ The following tech stacks were used:
 3. The Serverless Framework
 4. Github
 
-#Services
+# Services
 
 The following AWS Services are used for this project:
 
